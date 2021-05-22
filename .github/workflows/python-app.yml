@@ -1,0 +1,22 @@
+#teste
+name: 'Clark Kent',
+    "username":"kent",
+    "password":"Kryp10N1038"
+    }
+usuarios.append(usuario)
+usuario = {
+     "name":"Bruce Wayne",
+     "username":"wayne",
+     "password":"k@ne1939FinGer"
+ }
+
+usuarios.append(usuario)
+ 
+usuario = {
+     "name":"Christopher Walker",
+     "username":"walker",
+     "password":"F@lK1936bEnG@1@"
+ }
+ 
+usuarios.append(usuario)
+
